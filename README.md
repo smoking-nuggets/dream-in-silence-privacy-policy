@@ -1,8 +1,6 @@
-# 'Dream In Silence' Privacy Policy
-
 ## Collection of Personal Information
 
-The app does not collect, transmit or share any information, personal or otherwise.
+The app `Dream In Silence` does not collect, transmit or share any information, personal or otherwise.
 
 ## Email
 
